@@ -1,0 +1,22 @@
+[ DATE: 26.03.2007 ]
+[ AUTHOR: sharpe ]
+[ CRACKME: Crackme #4 ]
+[ DIFFICULTY: ? ]
+
+
+[ INTRODUCTION ]
+
+I chose to obfuscate most of the code in this crackme besides the unlock functionality. The serial generation code is the same as in my last crackme (#3) so there will be opcode signatures that will enable you to brute out the code encryption key. If you haven't completed my last crackme, you should still be able to find valid code signatures in the code. I shan't say anymore. After the Unlock Code has been found, type it in and it will decrypt the serial generation code. Then it should be straight forward.
+
+
+[ RULES ]
+
+- Find the correct unlock code
+- Write a keygen or find a valid username/serial
+- Write a tutorial explaining how you solved this one and please include your code
+
+
+[ CONCLUSION ]
+
+That's it. Have fun and feel free to ask any questions.
+I really look forward to seeing your solutions!

@@ -1,0 +1,19 @@
+OK, here we are again with a new series of challenges, which will start with number 10. This time, you'll be forced to think out of the box, be creative.
+
+Here are the guidelines:
+
+- Find the number of Nerf darts
+- Find the hash
+- Generate the valid MD5 like so: MD5(<number of darts>:<valid hash>)
+- Enter the MD5 and press the "Unlock" button to decrypt the code
+- Press the "Go" button to see if you got it right. If not, the challenge will exit.
+- Verify your hash here: http://blog.sat0ri.com/challenges/ten/verify.php?hash=<your hash value>
+
+If you have any questions then post them in the forum at http://blog.sat0ri.com/
+
+Have a blast!
+
+Regards,
+sharpe.
+
+Greets to Gunther, Deroko, EvilCry, and Nicko

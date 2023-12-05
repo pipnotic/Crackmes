@@ -1,0 +1,23 @@
+[PROJECT]
+Type=0
+ReleaseCommandLine=
+DebugCommandLine=
+AutoIncFileVersion=0
+RCSilent=0
+PellesTools=0
+[MAKE]
+ActiveBuild=0
+CompileRC=/v
+RCToObj=
+Assemble=/c /coff /Cp /nologo
+Link=/SUBSYSTEM:WINDOWS /RELEASE /VERSION:4.0
+Out=
+DebAssemble=/c /coff /Cp /nologo /Fm /Zi /Zd
+DebLink=/SUBSYSTEM:WINDOWS /DEBUG /VERSION:4.0
+DebOut=
+[FILES]
+1=solution.asm
+2=solution.rc
+[SHOWFILE]
+1=2C0000002C0000008E0300008F010000000000000300000030000000AC
+2=4200000042000000A4030000A5010000010000000100000000000000D3

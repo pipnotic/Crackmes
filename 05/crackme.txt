@@ -1,0 +1,29 @@
+[ DATE: 14.04.2007 ]
+[ AUTHOR: sharpe ]
+[ CRACKME: Crackme #5 ]
+[ DIFFICULTY: ? ]
+
+
+[ INTRODUCTION ]
+
+The serial-generation code in this crackme is obfuscated, there are no signatures this time and the entire serial generation code has been re-written. After the unlock code has been found, type it in and it will de-obfuscate the serial generation code. If you enter an invalid code, the crackme will die (depending on your luck of course), as the de-obfuscation routine may very well result in invalid instruction sequences. After this bit has been complete it should be straight forward.
+
+
+[ RULES ]
+
+- No patching
+- Find the correct unlock code
+- Write a keygen
+- Write a tutorial explaining how you solved this one and please include your code
+
+
+[ CONCLUSION ]
+
+I don't know how difficult this crackme is, so I would really appreciate your feedback on this, as I would like to put a difficulty level on the final release.
+
+If you have any questions, please feel free to ask :o)
+
+Enjoy!
+
+Best,
+sharpe
